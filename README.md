@@ -1,6 +1,6 @@
 # Responsive Hamburger Menu With Flexbox
 
-This component contains all of the working code for an animated and responsive hamburger menu. The menu is functional without any JavaScript, though some is used to hide and show the menu while scrolling. The original styling was done using scss and can be located in the src folder, or the ready to go css file can be located in the dist folder.
+This component contains all of the working code for an animated and responsive hamburger menu. The menu is functional without any JavaScript, though some is used to hide and show the menu while scrolling. The original styling was done using scss and can be located in the src folder, or the ready to go css file can be located in the dist folder. You can preview the menu at https://codepen.io/JBranski/full/KKpyRVp.
 
 ## Getting Started
 
